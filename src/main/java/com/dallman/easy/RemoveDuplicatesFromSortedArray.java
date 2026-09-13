@@ -1,4 +1,4 @@
-package com.dallman;
+package com.dallman.easy;
 
 import java.util.*;
 
