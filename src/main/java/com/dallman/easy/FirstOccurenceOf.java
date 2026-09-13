@@ -27,7 +27,7 @@ public class FirstOccurenceOf {
     static void main() {
         System.out.println(strStr("sadbutsad", "sad")); // Expected 0
         System.out.println(strStr("leetcode", "leeto")); // Expected -1
-        
+
     }
 
 
